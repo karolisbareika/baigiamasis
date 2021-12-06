@@ -1,6 +1,18 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Trip planning tool
+
+Trip planning tool saves info about your previous trips and helps to plan a new ones
+
+
+## Usage
+
+Log in
+Add new trips
+See previous trips
+
+###
+Setup
+Create an .env file with your MySQL project setup 
 
 ## Available Scripts
 
@@ -13,6 +25,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+
+
+
 
 ### `npm test`
 
